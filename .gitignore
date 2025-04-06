@@ -172,3 +172,5 @@ cython_debug/
 
 # 忽略所有 .vscode 目录
 .vscode/
+
+.python-version
